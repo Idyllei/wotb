@@ -1,8 +1,7 @@
 {
   "name": "wotb",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "C binding for Web of Trust fast tools",
-  "repository": "https://github.com/ucoin-io/wotb",
   "main": "index.js",
   "engines": {
     "node": ">=4.2.0",
